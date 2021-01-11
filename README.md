@@ -14,7 +14,7 @@ A website that offers an interactive quiz game.
 - JavaScript
 
 ## Website
-
+ https://sammichbrown.github.io/Code-Quiz/
 
 ### Contribution
 Made by Samantha Brown
